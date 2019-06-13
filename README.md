@@ -7,3 +7,4 @@ Creating an Apollo Server with Node/Express.
 - _Schema_: Query and mutation definitions
 - _Resolvers_: Logic to process queries and mutations
 - _Models_: Data to query and mutate
+- _Database_: Postgres for persistent storage (via Sequelize)
